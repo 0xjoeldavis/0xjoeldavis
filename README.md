@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/ai-hero.svg" width="100%" />
+<img src="./ai-hero.svg" width="100%" />
 
 </div>
 

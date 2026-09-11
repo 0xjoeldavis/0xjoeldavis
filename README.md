@@ -27,6 +27,18 @@ github icon code
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="aws" />
+       <br>AWS
+     </td>
+     <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
+       <br>Azure
+     </td>
+    <td align="center" width="90">
+       <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
+       <br>Docker
+     </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
     </td>
@@ -37,19 +49,7 @@ github icon code
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
+    </td>   
   </tr>
   <tr>
     <td align="center" width="90">
@@ -138,16 +138,16 @@ github icon code
        <br>Bootstrap
      </td>
      <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="aws" />
-       <br>AWS
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
      </td>
      <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
-       <br>Azure
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
      </td>
      <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
-       <br>Docker
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
      </td>
      <td align="center" width="90">
        <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="go" />
